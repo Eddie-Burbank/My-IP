@@ -1,0 +1,20 @@
+#desc {
+    text-align: left;
+    padding-top: 0;
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  #ip-address {
+    text-align: center;
+    -moz-user-select: text;
+    user-select: text;
+    cursor: text;
+    font-size: 16px;
+  }
+  
+  #img-container {
+    text-align: center;
+  }
+  
+  
