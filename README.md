@@ -6,7 +6,7 @@ While using his and other IP fetching extensions, I found that most, if not all 
 
 I used the base script from TwinProduction's extension and changed things around a bit and now the extension will always return your IP with no errors, even while using the TOR or any other proxy service.
 
-The extension can be added to your Firefox browser from https://addons.mozilla.org/en-US/firefox/addon/my-ip/
+The extension can be added to your Firefox browser from https://addons.mozilla.org/firefox/addon/my-ip/
 
 Alternatively you can download the .xpi file from this GitHub page under the releases section.
 
